@@ -1,0 +1,20 @@
+Docker
+Kubernetes
+Docker
+Orquestación
+Dockerfile
+Docker
+Contenedores
+Imagen
+Docker
+Cluster
+Red
+Docker
+Volúmenes
+Docker
+Docker Compose
+Pod
+Docker
+Microservicios
+Docker
+CI/CD
